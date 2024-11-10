@@ -45,10 +45,9 @@ Furthermore iam using 10MHz as reference clock; so 4 times better!
 
 ### Build 
 
-<div align="center"><img src="docs/images/build-outside.jpg" width="480px"></div>
-![RP2040-GPSDO](docs/images/front.JPG)
+<div align="center"><img src="docs/images/build-outside.JPG" width="480px"></div>
 
-<div align="center"><img src="docs/images/build-inside.jpg" width="480px"></div>
+<div align="center"><img src="docs/images/build-inside.JPG" width="480px"></div>
 
 ### Result
 
